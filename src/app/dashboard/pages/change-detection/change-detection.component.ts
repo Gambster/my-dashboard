@@ -5,4 +5,6 @@ import { Component } from '@angular/core';
   imports: [],
   templateUrl: './change-detection.component.html',
 })
-export class ChangeDetectionComponent { }
+export class ChangeDetectionComponent {}
+
+export default ChangeDetectionComponent;

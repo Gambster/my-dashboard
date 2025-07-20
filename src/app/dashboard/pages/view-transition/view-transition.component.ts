@@ -5,4 +5,6 @@ import { Component } from '@angular/core';
   imports: [],
   templateUrl: './view-transition.component.html',
 })
-export class ViewTransitionComponent { }
+export class ViewTransitionComponent {}
+
+export default ViewTransitionComponent;

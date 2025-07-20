@@ -5,4 +5,6 @@ import { Component } from '@angular/core';
   imports: [],
   templateUrl: './control-flow.component.html',
 })
-export class ControlFlowComponent { }
+export class ControlFlowComponent {}
+
+export default ControlFlowComponent;
